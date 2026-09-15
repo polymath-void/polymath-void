@@ -11,8 +11,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/polymath-void?label=Followers&style=flat)](https://github.com/polymath-void?tab=followers)
 [![GitHub repos](https://img.shields.io/badge/Public_Repos-31-blue?style=flat)](https://github.com/polymath-void?tab=repositories)
 
-I build autonomous AI agent systems that run natively on edge devices. My work centers on bridging Large Language Models with real operating system execution — particularly on Android/Termux — through the [Model Context Protocol (MCP)](https://modelcontextprotocol.io) and custom swarm orchestration architectures.
-
 Based in the **UAE**. Active since **2020**.
 
 ---
