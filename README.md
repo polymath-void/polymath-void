@@ -10,7 +10,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/polymath-void?label=Followers&style=flat)](https://github.com/polymath-void?tab=followers)
 [![GitHub repos](https://img.shields.io/badge/Public_Repos-31-blue?style=flat)](https://github.com/polymath-void?tab=repositories)
-I engineer **platform-independent**, fully autonomous AI agent swarms that operate at the edge. My focus is on building distributed AI systems, utilizing the [Model Context Protocol (MCP)](https://modelcontextprotocol.io), WASM bridges, and low-level system integrations (Rust/C++) to bridge Large Language Models with real-world execution environments—regardless of the underlying OS.
+I engineer the underlying infrastructure for **Autonomous AI Swarms**. My expertise lies in Agent Operating Systems, distributed agent operations, and sophisticated data management. I am the creator of highly valuable ecosystem tools published across package managers, including [polymath-nodeos (PyPI)](https://pypi.org/project/polymath-nodeos/) and [polymath-jage (NPM)](https://www.npmjs.com/package/polymath-jage).
 
 🌐 **[View Interactive Portfolio](https://polymath-void.github.io/polymath-void/)**
 
@@ -123,9 +123,9 @@ Based in the **UAE**. Active since **2020**.
 | Domain | Technologies |
 |:-------|:-------------|
 | **Languages** | Python · Rust · JavaScript · TypeScript · Kotlin · C · Shell |
-| **AI & Protocols** | Model Context Protocol (MCP) · LLM Tool Calling · FastMCP · WASM Inference |
-| **Systems** | Android (Termux) · Linux Kernel Sysfs · Magisk Overlays |
-| **Architecture** | Swarm Intelligence · Semantic AST · JSON Intent Dispatch · Edge AI |
+| **AI & Operations** | Agent Operating Systems · Swarm Intelligence · Data Management · WASM Inference |
+| **Systems** | Distributed Execution · Edge Devices · Linux Kernel Sysfs · Package Management (PyPI/NPM) |
+| **Architecture** | Semantic AST · JSON Intent Dispatch · Peer-to-Peer Networks |
 
 ---
 
