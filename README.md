@@ -10,7 +10,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/polymath-void?label=Followers&style=flat)](https://github.com/polymath-void?tab=followers)
 [![GitHub repos](https://img.shields.io/badge/Public_Repos-31-blue?style=flat)](https://github.com/polymath-void?tab=repositories)
-I am a pioneer in **Termux-Native Edge AI**, engineering fully autonomous AI agent swarms that execute directly within the Android/Termux ecosystem. My focus is on transforming Android devices into headless AI servers using the [Model Context Protocol (MCP)](https://modelcontextprotocol.io), WASM bridges, and native Linux/Termux system integrations without requiring traditional cloud dependency.
+I engineer **platform-independent**, fully autonomous AI agent swarms that operate at the edge. My focus is on building distributed AI systems, utilizing the [Model Context Protocol (MCP)](https://modelcontextprotocol.io), WASM bridges, and low-level system integrations (Rust/C++) to bridge Large Language Models with real-world execution environments—regardless of the underlying OS.
 
 🌐 **[View Interactive Portfolio](https://polymath-void.github.io/polymath-void/)**
 
